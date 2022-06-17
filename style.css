@@ -1,21 +1,21 @@
 html{
-        padding-bottom: 5em;
 	font-family: sans-serif;
 }
 body {
 	color: #070B14 ;
 	background: #E0FFFF;
+	margin: auto;
 }
 header {
+	margin: auto;
+	margin-bottom: 4em;
 	padding-top: 5em;
-	text-align: center;
+	padding-left: 2em;
+	padding-right: 2em;
  	padding-bottom: 2em;
 	background: #070B14;
 	color: #E0FFFF;
-	width: 100%;
-	margin-bottom: 4em;
-	padding-left: 2em;
-	padding-right: 2em;
+	text-align: center;
 }
 article {
 	padding-left: 2em;
@@ -28,7 +28,7 @@ article {
 	margin: auto;
 	width: 75%;
 	margin-bottom: 2em;
-	box-shadow: 4px 8px 3px 0px #333333;
+	box-shadow: 3px 6px 3px 0px #333333;
 	text-align: center;
 	border-radius: 5px;
 	max-width: 850px;
